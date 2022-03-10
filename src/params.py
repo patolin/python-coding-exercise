@@ -20,7 +20,7 @@ standard_hour_cost = {
     'night': 20
 }
 
-special_hour_cost = {
+weekend_hour_cost = {
     'morning': 30,
     'noon': 20,
     'night': 25

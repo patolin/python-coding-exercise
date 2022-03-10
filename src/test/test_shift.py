@@ -7,7 +7,7 @@ from shift import Shift
        ((10, 11), ('noon', 'noon')),
        ((5, 8), ('morning', 'morning')),
        ((5, 10), ('morning', 'noon')),
-       ((8, 20), ('morning', 'night'))
+       ((5, 20), ('morning', 'night'))
     ]
 )
 def test_parse_employee_name(input,expected):
