@@ -15,6 +15,8 @@ Also there is included a a function in the helpers.py file, which is used in the
 
 # Program execution
 
+The program requires Python 3.6 or later
+
 As defined in the requirement, the code must include a text file with data to be processed, where each line corresponds to a employee work record similar to this:
 
 ```
@@ -24,7 +26,7 @@ PATRICIO=MO07:00-09:00,WE12:00-15:00,SU14:00-16:00
 To run the program, you can clone this repository and use the following command from the src/ folder:
 
 ```
-python main.py data.txt
+python main.py <data file>
 ```
 
 # Unit Tests
