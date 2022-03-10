@@ -7,9 +7,9 @@ This example is a demonstration of my coding expertise as a Python Developer. Th
 
 The code is organized in 3 main classes:
 
-Parser: Input text parsing process
-Shift: Information about shifts and schedules defined in the initial parameters
-Payments: For calculation of the payments of each employee, based in shifts and hour costs
+- Parser: Input text parsing process
+- Shift: Information about shifts and schedules defined in the initial parameters
+- Payments: For calculation of the payments of each employee, based in shifts and hour costs
 
 Also there is included a a function in the helpers.py file, which is used in the different classes to parse the time strings and convert it to time in seconds. Also in the file params.py there are set the variables needed to run the program, which setups the schedules, and costs per hour depending on the day and time.
 
